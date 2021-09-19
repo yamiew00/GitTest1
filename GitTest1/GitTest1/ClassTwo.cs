@@ -4,7 +4,8 @@ using System.Text;
 
 namespace GitTest1
 {
-    class ClassTwo
+    public class ClassTwo
     {
+        public int Number;
     }
 }
