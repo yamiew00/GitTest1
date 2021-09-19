@@ -6,5 +6,6 @@ namespace GitTest1
 {
     class BaseClass
     {
+        public int Number1;
     }
 }
