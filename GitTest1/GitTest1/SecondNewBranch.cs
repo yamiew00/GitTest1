@@ -6,5 +6,6 @@ namespace GitTest1
 {
     class SecondNewBranch
     {
+        public string Str = "Basicly";
     }
 }
